@@ -13,9 +13,9 @@ for example:
 ## Run docker container
 
 Docker container supports next environment variables:
-**SMTP_SERVER**  - address of smtp server to use
-**FROM_ADDRESS** - script will send mails from this email address
-**TO_ADDRESS** - script will send mails to this email address
+* **SMTP_SERVER**  - address of smtp server to use
+* **FROM_ADDRESS** - script will send mails from this email address
+* **TO_ADDRESS** - script will send mails to this email address
 
 Example:
 
